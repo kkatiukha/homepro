@@ -1,0 +1,10 @@
+{
+    "name": "learnix/homepro",
+    "description": "modeling site",
+    "type": "project",
+    "minimum-stability": "stable",
+    "require": {
+      "mongodb/mongodb": "^1.4.0",
+      "phpmailer/phpmailer": "^5.2"
+    }
+}
